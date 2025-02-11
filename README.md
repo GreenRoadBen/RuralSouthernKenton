@@ -12,3 +12,9 @@ if you want information added/removed, leave a comment in the "issues" section.
 https://github.com/GreenRoadBen/RuralSouthernKenton/issues 
 
 I had added a layer of farms that I knew, but removed those as I am not the owner.
+
+## Property Map from Kenton County 
+
+https://gis.kentoncounty.org/landrecordsmap/ 
+
+Owners are often obscured by trusts/llc
