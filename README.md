@@ -5,5 +5,5 @@ Repo for facilitating rural southern kenton county discussion
 ## Google Maps Overlay
 
 Iterative attempt to make it easier to see impact and relationships of proposals 
-
+[
 https://www.google.com/maps/d/edit?mid=13Wr-9ePqWmYSlS0J61Zmnx6jz4f_GDY&usp=sharing
