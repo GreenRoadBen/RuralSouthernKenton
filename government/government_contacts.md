@@ -1,6 +1,6 @@
 # Overview
 ## The Government Officials which have scope over Southern Kenton County 
-The following individuals are members of the government which have jurisdiction over the land comprising Southern Kenton County.  
+The following individuals are members of the government, both elected and appointed bureaucracy, which have jurisdiction over the land comprising Southern Kenton County.  
 The power they have, and actions they can take depends on their role and jurisdiction.  
 
 **Symbols and Icons**  
@@ -11,7 +11,9 @@ The power they have, and actions they can take depends on their role and jurisdi
 |Executive Branch|👮||Democratic Party|🔵|
 |Judicial Branch|🧑‍⚖️||Non-Party|🟤|
 |Special Purpose Government Entities|🧑‍💼|| Appointed|👇|
-| _____ | _____ | |Board Executive|🪑|
+|Gets votes from South Kenton|🎯| |Board Executive|🪑|  
+|Aligned in Support of Rural Kenton|🟢| |Opposed to Support of Rural Kenton|⚫|
+|👇 by 🎯|🤔| | | |
 
 
 </details>
@@ -22,7 +24,7 @@ The power they have, and actions they can take depends on their role and jurisdi
 ## County  (Fiscal Court)
 [**County Government Explained**](linkurl)  
 ### Judge Executive [info](linkurl)   
-> #### Kris Knochleman 👮🔴  
+> #### Kris Knochleman 👮🔴🎯⚫  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
 > | 859-835-1500 | kris.knochelmann@kentoncounty.org | _____ | [**Message Prompt](linkurl) |
@@ -30,12 +32,12 @@ The power they have, and actions they can take depends on their role and jurisdi
 > [back to top](#overview)
 
 ### Commisioners [info](linkurl)   
-> #### Beth Sewell - Distrcit 1 👮🟤  
+> #### Beth Sewell - Distrcit 1 👮🟤⚫  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
 > | 859-392-1400 | beth.sewell@kentoncounty.org | _____ | [**Message Prompt](linkurl) |
 
-> #### Dr. Jon Draud - Distrcit 2 👮🟤    
+> #### Dr. Jon Draud - Distrcit 2 👮🟤🎯    
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
 > | 859-392-1400 | jon.draud@kentoncounty.org | _____ | [**Message Prompt](linkurl) |
@@ -67,8 +69,8 @@ https://www.kentoncounty.org/304/Planning-Commission
 > | Jeff Bethell 👮🧑‍💼👇| _____ | Fort Mitchell | 2026-12 | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
 > | Todd Berling 👮🧑‍💼👇| _____ | Fort Wright | 2025-12 | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
 > | Maura Snyder 👮🧑‍💼👇| _____ | Independence | 2025-12 | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
-> | Brian Dunham; Chair 👮🧑‍💼👇🪑| _____ | Kenton County | 2027-12 | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
-> | Debbie Vaughn 👮🧑‍💼👇| _____ | Kenton County | 2025-12 | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
+> | Brian Dunham; Chair 👮🧑‍💼👇🤔🪑| _____ | Kenton County | 2027-12 | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
+> | Debbie Vaughn 👮🧑‍💼👇🤔| _____ | Kenton County | 2025-12 | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
 > | Keith Logsdon 👮🧑‍💼👇| _____ | Lakeside Park | 2025-12 | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
 > | Tom France 👮🧑‍💼👇| _____ | Ludlow | 2026-12 | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
 > | Philip Ryan, III; Treasurer 👮🧑‍💼👇🪑| _____ | Park Hills | 2026-12 | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
