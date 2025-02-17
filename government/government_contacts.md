@@ -3,6 +3,9 @@
 The following individuals are members of the government, both elected and appointed bureaucracy, which have jurisdiction over the land comprising Southern Kenton County.  
 The power they have, and actions they can take depends on their role and jurisdiction.  
 
+**TABLE OF CONTENTS**  
+Use the GitHub Auto Table of Contents in upper right corner of this page.  
+
 **Symbols and Icons**  
 
 |**Category**|**Symbol**|  |**Category**|**Symbol**|  
