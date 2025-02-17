@@ -16,6 +16,7 @@ The power they have, and actions they can take depends on their role and jurisdi
 |👇 by 🎯|🤔| | | |
 
 
+
 </details>
 
 ## City  
@@ -141,17 +142,27 @@ https://www.kentoncounty.org/304/Planning-Commission
 
 ## State  
 [**State Government Explained**](linkurl)  
-### Representative [info](linkurl)   
-> #### individual_name   
+### Representative   
+> #### [Gex Williams - District 20](https://ballotpedia.org/Gex_Williams)🏛️🔴🎯  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
-> | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
+> | 502-564-8100 |gex.williams@kylegislature.gov ,[contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-20.html) | 702 Capital Ave Annex Room 284 Frankfort, KY 40601 | [**Message Prompt](linkurl) |  
 
-### Senator [info](linkurl)   
-> #### individual_name   
+> #### [Shelley Funke Frommeyer - District 24](https://ballotpedia.org/Shelley_Funke_Frommeyer)🏛️🔴🎯  
+> |Phone|Twitter|Email|Address|Message Prompt|  
+> |:---|:---|:---|:---|:---|  
+> | 502-564-8100 |@FunkeShelley| shelley.funkefrommeyer@kylegislature.gov ,[contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-24.html) | PO Box 511 Alexandria, KY 41001 | [**Message Prompt](linkurl) |  
+
+### Senator 
+> #### [Matt Nunn  - District 17](https://ballotpedia.org/Matt_Nunn)🏛️🔴🎯  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
-> | _____ | _____ | _____ | [**Message Prompt](linkurl) |
+> | 502-564-8100 |matt.nunn@kylegislature.gov ,[contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-17.html) | 702 Capital Ave Annex Room 290 Frankfort, KY 40601 | [**Message Prompt](linkurl) |
+
+> #### [Chris McDaniel - District 23](https://ballotpedia.org/Chris_McDaniel_(Kentucky))🏛️🔴  
+> |Phone|Twitter|Email|Address|Message Prompt|  
+> |:---|:---|:---|:---|:---|  
+> | 502-564-8100 |@kychrismcdaniel|Chris.McDaniel@kylegislature.gov ,[contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-23.html) | PO Box 15231 Latonia, KY 41015 | [**Message Prompt](linkurl) |  
 > 
 > [back to top](#overview)
 
@@ -159,25 +170,21 @@ https://www.kentoncounty.org/304/Planning-Commission
 ## Federal   
 [**Federal Government Explained**](linkurl)  
 ### Senator [info](linkurl)   
-#### individual_name   
-> #### individual_name   
+> #### [Rand Paul](https://www.congress.gov/member/rand-paul/P000603) 🏛️🔴🎯  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
-> | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
-
-### Senator     
-#### individual_name   
-> #### individual_name   
+> | (202) 224-4343 | [contact form](https://www.paul.senate.gov/connect/) | 295 Russell Senate Office Building Washington, DC 20510 | [**Message Prompt](linkurl) |  
+ 
+> #### [Mitch McConnell](https://www.congress.gov/member/mitch-mcconnell/M000355) 🏛️🔴🎯  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
-> | _____ | _____ | _____ | [**Message Prompt](linkurl) |  
+> | (202) 224-2541 | [contact form](https://www.mcconnell.senate.gov/public/index.cfm?p=contact) | 317 Russell Senate Office Building Washington, DC 20510 | [**Message Prompt](linkurl) |  
 
 ### Representative [info](linkurl)   
-#### individual_name   
-> #### individual_name   
+> #### [Thomas Massie](https://www.congress.gov/member/thomas-massie/M001184) 🏛️🔴🎯  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
-> | _____ | _____ | _____ | [**Message Prompt](linkurl) |
+> | (202) 225-3465 | [contact form](https://massie.house.gov/contact/default.aspx) | 2371 Rayburn House Office Building | [**Message Prompt](linkurl) |  
 > 
 > [back to top](#overview)
 
