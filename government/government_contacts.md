@@ -13,7 +13,7 @@ The power they have, and actions they can take depends on their role and jurisdi
 |Special Purpose Government Entities|🧑‍💼|| Appointed|👇|
 |Gets votes from South Kenton|🎯| |Board Executive|🪑|  
 |Aligned in Support of Rural Kenton|🟢| |Opposed to Support of Rural Kenton|⚫|
-|👇 by 🎯|🤔| | | |
+|👇 by 🎯|🤔| |Key Player in Site Readiness Initiative|🏭|
 
 
 
@@ -25,7 +25,7 @@ The power they have, and actions they can take depends on their role and jurisdi
 ## County  (Fiscal Court)
 [**County Government Explained**](linkurl)  
 ### Judge Executive [info](linkurl)   
-> #### Kris Knochleman 👮🔴🎯⚫  
+> #### Kris Knochleman 👮🔴🎯🏭⚫  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
 > | 859-835-1500 | kris.knochelmann@kentoncounty.org | _____ | [**Message Prompt](linkurl) |
@@ -83,8 +83,8 @@ https://www.kentoncounty.org/304/Planning-Commission
 > 
 > [back to top](#overview)  
 
-#### Planning and Development Services of Kenton County  
-> ##### PDS Council
+#### Planning and Development Services of Kenton County 🏭 
+> ##### PDS Council 🏭
 > https://www.pdskc.org/about/pds-council  
 > |Name|Appointed By|Region|Alternate|Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|:---|:---|:---|:---|  
@@ -112,7 +112,7 @@ https://www.kentoncounty.org/304/Planning-Commission
 > 
 > [back to top](#overview)
 
-> ##### PDS Management Board   
+> ##### PDS Management Board 🏭   
 > https://www.pdskc.org/about/pds-management-board  
 > |Name|Appointed By|Region|Term End|Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|:---|:---|:---|:---|  
@@ -127,7 +127,7 @@ https://www.kentoncounty.org/304/Planning-Commission
 > 
 > [back to top](#overview)
 
-> ##### PDS Executive Office  
+> ##### PDS Executive Office 🏭 
 > https://www.pdskc.org/about/pds-departments/administration    
 > |Name|Appointed By|Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|:---|:---|  
