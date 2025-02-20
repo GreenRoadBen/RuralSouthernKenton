@@ -120,7 +120,7 @@ https://www.kentoncounty.org/304/Planning-Commission
 > ##### PDS Management Board 🏭   
 > https://www.pdskc.org/about/pds-management-board  
 > 
-> ###### Chris Reinersman, Chair 👮🧑‍💼👇  
+> ###### Chris Reinersman, Chair 👮🧑‍💼👇🏭  
 > |Appounted by|Region|Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|:---|:---|  
 > |[PDS Council](#planning-commission-members)|Independence Mayor| 859-356-5302 | [contact form](https://www.cityofindependence.org/Contact/General/?action=general) | _____ | [**Message Prompt](/messaging/README.md) |
