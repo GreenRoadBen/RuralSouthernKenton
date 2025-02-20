@@ -58,70 +58,86 @@ There are TWO separate planning organizations in Kenton County
 
 #### Kenton County Planning Commission 
 https://www.kentoncounty.org/304/Planning-Commission  
-> ##### Planning Commission Members
+
+ ##### Planning Commission Members
 > |Name|Appointed By|Region|Term End|Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|:---|:---|:---|:---|  
 > |Gailen Bridges 👮🧑‍💼👇| _____ | Bromley | 2027-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Sean Pharr 👮🧑‍💼👇| _____ | Covington | 2025-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Kareem Simpson 👮🧑‍💼👇| _____ | Covington | 2024-12 ❓ | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Gabriella DeAngelis 👮🧑‍💼👇| _____ | Covington | 2024-12 ❓ | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Greg Sketch 👮🧑‍💼👇| _____ | Crescent Springs | 2024-12 ❓ | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Margo Baumgardner 👮🧑‍💼👇| _____ | Crestview Hills | 2026-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Paul Darpel; Vice-Chair 👮🧑‍💼👇🪑| _____ | Edgewood | 2027-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Joe Pannunzio, Jr. 👮🧑‍💼👇| _____ | Elsmere | 2027-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Todd Herrman 👮🧑‍💼👇| _____ | Erlanger | 2024-12 ❓ | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Jeff Bethell 👮🧑‍💼👇| _____ | Fort Mitchell | 2026-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Todd Berling 👮🧑‍💼👇| _____ | Fort Wright | 2025-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Maura Snyder 👮🧑‍💼👇| _____ | Independence | 2025-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Brian Dunham; Chair 👮🧑‍💼👇🤔🪑| _____ | Kenton County | 2027-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Debbie Vaughn 👮🧑‍💼👇🤔| _____ | Kenton County | 2025-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Keith Logsdon 👮🧑‍💼👇| _____ | Lakeside Park | 2025-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Tom France 👮🧑‍💼👇| _____ | Ludlow | 2026-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Philip Ryan, III; Treasurer 👮🧑‍💼👇🪑| _____ | Park Hills | 2026-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | UNKNOWN 👮🧑‍💼👇| _____ | Ryland Heights | 2027-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Matthew Martin 👮🧑‍💼👇| _____ | Taylor Mill | 2026-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | John Hennessey 👮🧑‍💼👇| _____ | Villa Hills | 2024-12 ❓ | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Matt Smith, Legal Counsel| _____ | _____ |  | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Jennifer Paolucci, Secretary| _____ | _____ |  | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Sean Pharr 👮🧑‍💼👇| _____ | Covington | 2025-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Kareem Simpson 👮🧑‍💼👇| _____ | Covington | 2024-12 ❓ | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Gabriella DeAngelis 👮🧑‍💼👇| _____ | Covington | 2024-12 ❓ | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Greg Sketch 👮🧑‍💼👇| _____ | Crescent Springs | 2024-12 ❓ | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Margo Baumgardner 👮🧑‍💼👇| _____ | Crestview Hills | 2026-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Paul Darpel; Vice-Chair 👮🧑‍💼👇🪑| _____ | Edgewood | 2027-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Joe Pannunzio, Jr. 👮🧑‍💼👇| _____ | Elsmere | 2027-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Todd Herrman 👮🧑‍💼👇| _____ | Erlanger | 2024-12 ❓ | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Jeff Bethell 👮🧑‍💼👇| _____ | Fort Mitchell | 2026-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Todd Berling 👮🧑‍💼👇| _____ | Fort Wright | 2025-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Maura Snyder 👮🧑‍💼👇| _____ | Independence | 2025-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Brian Dunham; Chair 👮🧑‍💼👇🤔🪑| _____ | Kenton County | 2027-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Debbie Vaughn 👮🧑‍💼👇🤔| _____ | Kenton County | 2025-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Keith Logsdon 👮🧑‍💼👇| _____ | Lakeside Park | 2025-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Tom France 👮🧑‍💼👇| _____ | Ludlow | 2026-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Philip Ryan, III; Treasurer 👮🧑‍💼👇🪑| _____ | Park Hills | 2026-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |UNKNOWN 👮🧑‍💼👇| _____ | Ryland Heights | 2027-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Matthew Martin 👮🧑‍💼👇| _____ | Taylor Mill | 2026-12 | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |John Hennessey 👮🧑‍💼👇| _____ | Villa Hills | 2024-12 ❓ | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Matt Smith, Legal Counsel| _____ | _____ |  | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Jennifer Paolucci, Secretary| _____ | _____ |  | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
 > 
 > [back to top](#overview)  
 
 #### Planning and Development Services of Kenton County 🏭 
-> ##### PDS Council 🏭
+> ##### PDS Council 🏭  
 > https://www.pdskc.org/about/pds-council  
+> 
 > |Name|Appointed By|Region|Alternate|Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|:---|:---|:---|:---|  
-> |Mike Denham 👮🧑‍💼👇| _____ | Bromley Mayor | Mike Kendall, Councilman | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Joe Meyer 👮🧑‍💼👇| _____ | Covington Mayor | No Appointment | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Don Kiely 👮🧑‍💼👇| _____ | Cresecent Springs Councilman | Jeannine Smith, Councilwoman | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Paul Meier 👮🧑‍💼👇| _____ | Crestview Hills Mayor | David Kramer, Councilman | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |John Link; Secretary 👮🧑‍💼👇🪑| _____ | Edgewood Mayor | Kim Wolking, Councilwoman | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Marty Lenhof; President 👮🧑‍💼👇🪑| _____ | Elsmere Mayor | Cloria Grubbs, Councilman | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Jessica Fette 👮🧑‍💼👇| _____ | Erlanger Mayor | Tyson Hermes, Councilman | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Beverly Willman 👮🧑‍💼👇| _____ | Fairview Mayor | Fred Wilson, Commisioner | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Greg Pohlgeers; Vice-President 👮🧑‍💼👇🪑| _____ | Fort Mitchell Councilman | Jude Hehman, Mayor | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Bernie Wessels 👮🧑‍💼👇| _____ | Fort Wright Councilman | Jason Collins, Councilman | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Chris Reinersman 👮🧑‍💼👇| _____ | Independence Mayor | Chris Vogelpohl, Councilman | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Joe Nienaber 👮🧑‍💼👇| _____ | County Commissioner | Beth Sewell, Commissioner | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Mike Burdge 👮🧑‍💼👇| _____ | Kenton Vale, Commissioner | Marsha Patrick, Commissioner | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Brian Waite 👮🧑‍💼👇| _____ | Lakeside Park Commissioner | Dennis Landwehr, Comissioner | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Chris Wright 👮🧑‍💼👇| _____ | Ludlow Mayor | Steve Chapman, Councilman | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Joe Shields 👮🧑‍💼👇| _____ | Park Hills Councilman | Steve Chapman, Councilman | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |John Cole 👮🧑‍💼👇| _____ | Ryland Heights Mayor | Steve Elkins, Councilman | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Ed Kuehne 👮🧑‍💼👇| _____ | Taylor Mill Commissioner | Caroline Braden, Commissioner | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |Cathy Stover 👮🧑‍💼👇| _____ | Villa Hills Councilwoman  | Heather Jansen, Mayor | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
-> |OPEN 👮🧑‍💼👇| _____ | WALTON | Sherry Gaskill, Councilman | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Mike Denham 👮🧑‍💼👇| _____ | [Bromley Mayor](https://cityofbromley.com/CityCouncil.aspx) | Mike Kendall, Councilman | 859-512-5663 | mdenham@cityofbromley.com | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Ron Washington 👮🧑‍💼👇| _____ | [Covington Mayor](https://www.covingtonky.gov/government/mayor-and-commission) | No Appointment | 859-292-2127  | ron.washington@covingtonky.gov | 20 West Pike Street | [**Message Prompt](/messaging/README.md) |  
+> |Don Kiely 👮🧑‍💼👇| _____ | [Cresecent Springs Councilman](https://www.crescent-springs.ky.us/government/city_council/index.php) | Jeannine Smith, Councilwoman | _____ | dkiely@crescent-springs.ky.us | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Paul Meier 👮🧑‍💼👇| _____ | [Crestview Hills Mayor](https://www.crestviewhills.com/267/Mayor) | David Kramer, Councilman | 859-341-7373 | mayor@crestviewhills.com | _____ | [**Message Prompt](/messaging/README.md) |  
+> |John Link; Secretary 👮🧑‍💼👇🪑| _____ | [Edgewood Mayor](https://edgewoodky.gov/administration/city-officials-2/city-council/) | Kim Wolking, Councilwoman | _____ | mayorlink@edgewoodky.gov | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Marty Lenhof; President 👮🧑‍💼👇🪑| _____ | [Elsmere Mayor](https://www.cityofelsmere.com/mayor-city-council/page/mayor) | Cloria Grubbs, Councilman | 859-342-7911 | [contact form](https://www.cityofelsmere.com/email-contact/node/41/field_email/directory_listings_body_standard) | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Jessica Fette 👮🧑‍💼👇| _____ | [Erlanger Mayor](https://erlangerky.gov/office-of-the-mayor/) | Tyson Hermes, Councilman | 859-727-2525 | jessica.fette@cityoferlanger.com , [contact form](https://erlangerky.gov/office-of-the-mayor/contact-mayor-jessica-fette/) | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Beverly Willman 👮🧑‍💼👇| _____ | [Fairview Mayor](https://fairview.ky.gov/Pages/elected-officials.aspx) | Fred Wilson, Commisioner | 859-360-3146 | bwillman@fuse.net | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Greg Pohlgeers; Vice-President 👮🧑‍💼👇🪑| _____ | [Fort Mitchell Councilman](https://fortmitchell.com/government-2/council/) | Jude Hehman, Mayor | _____ | gpohlgeers@fortmitchell.com | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Bernie Wessels 👮🧑‍💼👇| _____ | [Fort Wright Councilman](https://www.fortwrightky.gov/departments/city-council) | Jason Collins, Councilman | 859-331-1700 | berniew@fortwrightky.gov | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Chris Reinersman 👮🧑‍💼👇| _____ | [Independence Mayor](https://www.cityofindependence.org/Mayor/?action=overview) | Chris Vogelpohl, Councilman | 859-356-5302 | [contact form](https://www.cityofindependence.org/Contact/CityContacts/?action=contact&role=Mayor%20general&id=1) | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Joe Nienaber 👮🧑‍💼👇| _____ | [County Commissioner](https://www.kentoncounty.org/380/Commissioner---District-3) | Beth Sewell, Commissioner | 859-392-1400 | joe.nienaber@kentoncounty.org | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Mike Burdge 👮🧑‍💼👇| _____ | [Kenton Vale, Commissioner](https://en.wikipedia.org/wiki/Kenton_Vale,_Kentucky) | Marsha Patrick, Commissioner | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Brian Waite 👮🧑‍💼👇| _____ | [Lakeside Park Commissioner](https://cityoflakesidepark.com/city-council-2/) | Dennis Landwehr, Comissioner | _____ | bwaite@cityoflakesidepark.com | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Chris Wright 👮🧑‍💼👇| _____ | [Ludlow Mayor](https://www.ludlow.org/government.aspx) | Steve Chapman, Councilman | _____ | [contact form](https://www.ludlow.org/contact-us.aspx) | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Joe Shields 👮🧑‍💼👇| _____ | [Park Hills Councilman](http://parkhillslife.org/city-council.html) | Steve Chapman, Councilman | 859-431-6252  | jshields@parkhillsky.net | _____ | [**Message Prompt](/messaging/README.md) |  
+> |John Cole 👮🧑‍💼👇| _____ | [Ryland Heights Mayor](https://www.cityofrylandheights.org/MayorAndCommissioners.aspx) | Steve Elkins, Councilman | 859-363-7707 | cclerk@cityofrylandheights.org | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Ed Kuehne 👮🧑‍💼👇| _____ | [Taylor Mill Commissioner](https://taylormillky.gov/government/) | Caroline Braden, Commissioner | 859-581-3234 | [contact form](https://app.heygov.com/taylormillky.gov/threads/create) | _____ | [**Message Prompt](/messaging/README.md) |  
+> |Cathy Stover 👮🧑‍💼👇| _____ | [Villa Hills Councilwoman](https://villahillsky.org/government-main-page/)  | Heather Jansen, Mayor | 859-578-4122 | [contact form](https://villahillsky.org/#contact) | _____ | [**Message Prompt](/messaging/README.md) |  
+> |OPEN 👮🧑‍💼👇| _____ | [WALTON](https://cityofwalton.org/government/city-council/) | Sherry Gaskill, Councilman | 859-485-4383 | sgaskill@cityofwalton.org, tcourtney@cityofwalton.org | _____ | [**Message Prompt](/messaging/README.md) |  
 > |Matthew Smith, Legal Counsel| _____ |  |  | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |  
 > 
 > [back to top](#overview)
 
 > ##### PDS Management Board 🏭   
 > https://www.pdskc.org/about/pds-management-board  
+> 
+> ##### Chris Reinersman, Chair 👮🧑‍💼👇  
+> |Appounted by|Region|Phone|Email|Address|Message Prompt|  
+> |:---|:---|:---|:---|:---|:---|  
+> |[PDS Council](#planning-commission-members)|Independence Mayor| 859-356-5302 | [contact form](https://www.cityofindependence.org/Contact/General/?action=general) | _____ | [**Message Prompt](/messaging/README.md) |
+> 
+> ##### Jessica Fette, Vice Chair 👮🧑‍💼👇  
+> |Appointed by|Region|Phone|Email|Address|Message Prompt|  
+> |:---|:---|:---|:---|:---|:---|  
+> |[PDS Council](#planning-commission-members)|Erlanger Mayor| 859-392-1400 | [contact form](https://erlangerky.gov/office-of-the-mayor/contact-mayor-jessica-fette/) | _____ | [**Message Prompt](/messaging/README.md) |
+> 
+> ##### Paul Meier, Treasurer 👮🧑‍💼👇   
+> |Appointed by|Region|Phone|Email|Address|Message Prompt|  
+> |:---|:---|:---|:---|:---|:---|  
+> |[PDS Council](#planning-commission-members)|Crestview Hills: At-Large| _____ | mayor@crestviewhills.com | _____ | [**Message Prompt](/messaging/README.md) |
+> 
+> ##### Board Members
 > |Name|Appointed By|Region|Term End|Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|:---|:---|:---|:---|  
-> | Chris Reinersman, Chain 👮🧑‍💼👇🪑| [PDS Council](#planning-commission-members) | Independence Mayor | 2027-12 | 859-356-5302 | [contact form](https://www.cityofindependence.org/Contact/General/?action=general) | 5409 Madison Pike | [**Message Prompt](/messaging/README.md) |  
-> | Jessica Fette, Vice Chair 👮🧑‍💼👇🪑| [PDS Council](#planning-commission-members) | Erlanger Mayor | _____ | _____ | [contact form](https://erlangerky.gov/office-of-the-mayor/contact-mayor-jessica-fette/) | _____ | [**Message Prompt](/messaging/README.md) |  
-> | Paul Meier, Treasurer 👮🧑‍💼👇🪑| [PDS Council](#planning-commission-members) | Crestview Hills: At-Large | _____ | _____ | mayor@crestviewhills.com | _____ | [**Message Prompt](/messaging/README.md) |  
 > | Joe Nienaber 👮🧑‍💼👇| [PDS Council](#planning-commission-members) | Kenton County Commissioner | _____ | 859-392-1400 | joe.nienaber@kentoncounty.org | _____ | [**Message Prompt](/messaging/README.md) |  
 > | Greg Pohlgeers 👮🧑‍💼👇| [PDS Council](#planning-commission-members) | Fort Mitchell: At-Large | _____ | _____ | GPohlgeers@FortMitchell.com | _____ | [**Message Prompt](/messaging/README.md) |  
 > | Ron Washington 👮🧑‍💼👇| [PDS Council](#planning-commission-members) | Covington Mayor | _____ | 859-292-2127  | ron.washington@covingtonky.gov | 20 West Pike Street | [**Message Prompt](/messaging/README.md) |  
@@ -145,27 +161,27 @@ https://www.kentoncounty.org/304/Planning-Commission
 
 ## State  
 [**State Government Explained**](linkurl)  
-### Representative   
+### Representatives, with Kenton County Constituents  
 > #### [Gex Williams - District 20](https://ballotpedia.org/Gex_Williams)🏛️🔴🎯  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
-> | 502-564-8100 |gex.williams@kylegislature.gov ,[contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-20.html) | 702 Capital Ave Annex Room 284 Frankfort, KY 40601 | [**Message Prompt](/messaging/README.md) |  
+> | 502-564-8100 |gex.williams@kylegislature.gov, [contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-20.html) | 702 Capital Ave Annex Room 284 Frankfort, KY 40601 | [**Message Prompt](/messaging/README.md) |  
 
 > #### [Shelley Funke Frommeyer - District 24](https://ballotpedia.org/Shelley_Funke_Frommeyer)🏛️🔴🎯  
 > |Phone|Twitter|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|:---|  
-> | 502-564-8100 |@FunkeShelley| shelley.funkefrommeyer@kylegislature.gov ,[contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-24.html) | PO Box 511 Alexandria, KY 41001 | [**Message Prompt](/messaging/README.md) |  
+> | 502-564-8100 |@FunkeShelley| shelley.funkefrommeyer@kylegislature.gov, [contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-24.html) | PO Box 511 Alexandria, KY 41001 | [**Message Prompt](/messaging/README.md) |  
 
-### Senator 
+### Senators, with Kenton County Constituents   
 > #### [Matt Nunn  - District 17](https://ballotpedia.org/Matt_Nunn)🏛️🔴🎯  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
-> | 502-564-8100 |matt.nunn@kylegislature.gov ,[contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-17.html) | 702 Capital Ave Annex Room 290 Frankfort, KY 40601 | [**Message Prompt](/messaging/README.md) |
+> | 502-564-8100 |matt.nunn@kylegislature.gov, [contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-17.html) | 702 Capital Ave Annex Room 290 Frankfort, KY 40601 | [**Message Prompt](/messaging/README.md) |
 
 > #### [Chris McDaniel - District 23](https://ballotpedia.org/Chris_McDaniel_(Kentucky))🏛️🔴  
 > |Phone|Twitter|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|:---|  
-> | 502-564-8100 |@kychrismcdaniel|Chris.McDaniel@kylegislature.gov ,[contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-23.html) | PO Box 15231 Latonia, KY 41015 | [**Message Prompt](/messaging/README.md) |  
+> | 502-564-8100 |@kychrismcdaniel|Chris.McDaniel@kylegislature.gov, [contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-23.html) | PO Box 15231 Latonia, KY 41015 | [**Message Prompt](/messaging/README.md) |  
 > 
 > [back to top](#overview)
 
@@ -197,8 +213,8 @@ placeholder for easy copy paste augmentation
 
 ### role_name   
 > #### individual_name   
-> |Phone|Email|Address|Message Prompt|  
-> |:---|:---|:---|:---|  
-> | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |
+> |Phone|Region|Email|Address|Message Prompt|  
+> |:---|:---|:---|:---|:---|  
+> | _____ | _____ | _____ | _____ | [**Message Prompt](/messaging/README.md) |
 > 
 > [back to top](#overview)
