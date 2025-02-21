@@ -11,8 +11,8 @@ Click on the image below for a map that overlays Google Maps with Focus Area 1 a
 ## Property Lines and Owners  
 KY County Clerk offices offer a service of the Property Value Administrator to see property lines and ownership information.  
 The Kenton County Property Value Administrator offers the below Land Records Map. Click to browse and review  
-<a href="https://gis.kentoncounty.org/landrecordsmap/">
-  <img src="./docs/img/pva.png" alt="Land Records Map ScreenShot of Southern Kenton County" style="width:600px;height:100px;">
+<a href="https://gis.kentoncounty.org/landrecordsmap/"> 
+  <img src="./docs/img/pva.png" alt="Land Records Map ScreenShot of Southern Kenton County" style="width:600px;height:100px;"> 
 </a>  
 Ownership may be individuals, trusts, corporations, or others. 
 By KY Law, property owners must list a non-PO Box mailing address as part of their ownership. That required information can be further used to identify the actual owners.  
