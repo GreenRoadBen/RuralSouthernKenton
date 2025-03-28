@@ -162,26 +162,38 @@ https://www.kentoncounty.org/304/Planning-Commission
 ## State  
 [**State Government Explained**](linkurl)  
 ### Representatives, with Kenton County Constituents  
-> #### [Gex Williams - District 20](https://ballotpedia.org/Gex_Williams)🏛️🔴🎯  
+
+> #### [Savannah Maddox](https://ballotpedia.org/Savannah_Maddox) - [District 61](https://ballotpedia.org/Kentucky_House_of_Representatives_District_61)🏛️🔴🎯  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
-> | 502-564-8100 |gex.williams@kylegislature.gov, [contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-20.html) | 702 Capital Ave Annex Room 284 Frankfort, KY 40601 | [**Message Prompt](/messaging/README.md) |  
+> | 502-564-8100 | savannah.maddox@kylegislature.gov, and a [contact form](https://apps.legislature.ky.gov/Legislators/Contact/House-061.html) | 702 Capital Ave, Annex Room 316E, Frankfort, KY 40601 | [**Message Prompt](/messaging/README.md) |  
 
-> #### [Shelley Funke Frommeyer - District 24](https://ballotpedia.org/Shelley_Funke_Frommeyer)🏛️🔴🎯  
-> |Phone|Twitter|Email|Address|Message Prompt|  
-> |:---|:---|:---|:---|:---|  
-> | 502-564-8100 |@FunkeShelley| shelley.funkefrommeyer@kylegislature.gov, [contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-24.html) | PO Box 511 Alexandria, KY 41001 | [**Message Prompt](/messaging/README.md) |  
+> #### [Mark Hart](https://ballotpedia.org/Mark_Hart) - [District 78](https://ballotpedia.org/Kentucky_House_of_Representatives_District_78)🏛️🔴🎯  
+> |Phone|Email|Address|Message Prompt|  
+> |:---|:---|:---|:---|  
+> | 502-564-8100 | mark.hart@kylegislature.gov, and a [contact form](https://apps.legislature.ky.gov/Legislators/Contact/House-078.html) | 202 W 4th St Falmouth, KY 41040 | [**Message Prompt](/messaging/README.md) |  
+
 
 ### Senators, with Kenton County Constituents   
-> #### [Matt Nunn  - District 17](https://ballotpedia.org/Matt_Nunn)🏛️🔴🎯  
+> #### [Matt Nunn](https://ballotpedia.org/Matt_Nunn) - [District 17](https://ballotpedia.org/Kentucky_State_Senate_District_17)🏛️🔴🎯  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
-> | 502-564-8100 |matt.nunn@kylegislature.gov, [contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-17.html) | 702 Capital Ave Annex Room 290 Frankfort, KY 40601 | [**Message Prompt](/messaging/README.md) |
+> | 502-564-8100 |matt.nunn@kylegislature.gov, and a [contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-17.html) | 702 Capital Ave Annex Room 290 Frankfort, KY 40601 | [**Message Prompt](/messaging/README.md#matt-nunn---district-17) |
 
-> #### [Chris McDaniel - District 23](https://ballotpedia.org/Chris_McDaniel_(Kentucky))🏛️🔴  
+> #### [Gex Williams](https://ballotpedia.org/Gex_Williams) - [District 20](https://ballotpedia.org/Kentucky_State_Senate_District_20)🏛️🔴🎯  
+> |Phone|Email|Address|Message Prompt|  
+> |:---|:---|:---|:---|  
+> | 502-564-8100 |gex.williams@kylegislature.gov, and a [contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-20.html) | 702 Capital Ave Annex Room 284 Frankfort, KY 40601 | [**Message Prompt](/messaging/README.md#gex-williams---district-20) |  
+
+> #### [Chris McDaniel](https://ballotpedia.org/Chris_McDaniel_(Kentucky)) - [District 23](https://ballotpedia.org/Kentucky_State_Senate_District_23)🏛️🔴  
 > |Phone|Twitter|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|:---|  
-> | 502-564-8100 |@kychrismcdaniel|Chris.McDaniel@kylegislature.gov, [contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-23.html) | PO Box 15231 Latonia, KY 41015 | [**Message Prompt](/messaging/README.md) |  
+> | 502-564-8100 |@kychrismcdaniel|Chris.McDaniel@kylegislature.gov, and a [contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-23.html) | PO Box 15231 Latonia, KY 41015 | [**Message Prompt](/messaging/README.md#chris-mcdaniel---district-23) |  
+
+> #### [Shelley Funke Frommeyer](https://ballotpedia.org/Shelley_Funke_Frommeyer) - [Distrcit 24](https://ballotpedia.org/Kentucky_State_Senate_District_24)🏛️🔴🎯  
+> |Phone|Twitter|Email|Address|Message Prompt|  
+> |:---|:---|:---|:---|:---|  
+> | 502-564-8100 |@FunkeShelley| shelley.funkefrommeyer@kylegislature.gov, and a [contact form](https://apps.legislature.ky.gov/Legislators/Contact/Sen-24.html) | PO Box 511 Alexandria, KY 41001 | [**Message Prompt](/messaging/README.md#shelley-funke-frommeyer---district-24) |  
 > 
 > [back to top](#overview)
 
