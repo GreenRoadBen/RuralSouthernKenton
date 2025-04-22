@@ -2,31 +2,12 @@
 
 Conceptionally a centralized location for messaging points 
 
-# Engagement of Neighbors 
-## Focus Area 1 
-> <details><Summary>Draft for a Letter to Your Neighbors</Summary>  
-> 
-> ```
-> 
-> Your neighbor,
-> ________
-> ```  
-> 
-> </details> 
+# [Engagement of Neighbors](/messaging/neighbors_.md)  
 
-## Focus Area 2 
-> <details><Summary>Draft for a Letter to Your Neighbors</Summary>  
-> 
-> ``` 
->
-> Your neighbor,
-> ________
-> ```  
-> 
-> </details> 
+# [Engage Government](/messaging/government_.md) 
 
-
-# Engage Government 
+## [City Contacts](/messaging/government-city_.md
+)
 
 ## City Contacts 
 ### city_contact_1

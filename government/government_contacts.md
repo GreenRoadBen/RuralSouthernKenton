@@ -36,17 +36,17 @@ Use the GitHub Auto Table of Contents in upper right corner of this page.
 > [back to top](#overview)
 
 ### Commisioners [info](linkurl)   
-> #### Beth Sewell - Distrcit 1 👮🟤⚫  
+> #### Beth Sewell - Distrcit 1 👮🔴🎯⚫  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
 > | 859-392-1400 | beth.sewell@kentoncounty.org | _____ | [**Message Prompt](/messaging/README.md) |
 
-> #### Dr. Jon Draud - Distrcit 2 👮🟤🎯    
+> #### Dr. Jon Draud - Distrcit 2 👮🔴🎯    
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
 > | 859-392-1400 | jon.draud@kentoncounty.org | _____ | [**Message Prompt](/messaging/README.md) |
 
-> #### Joe Nienaber Jr. - Distrcit 3 👮🟤  
+> #### Joe Nienaber Jr. - Distrcit 3 👮🔴🎯  
 > |Phone|Email|Address|Message Prompt|  
 > |:---|:---|:---|:---|  
 > | 859-392-1400 | joe.nienaber@kentoncounty.org | _____ | [**Message Prompt](/messaging/README.md) |
