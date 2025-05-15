@@ -1,55 +1,16 @@
-# Messaging Center  
-
-Conceptionally a centralized location for messaging points 
-
-# [Engagement of Neighbors](/messaging/neighbors_.md)  
-
-# [Engage Government](/messaging/government_.md) 
-
-## [City Contacts](/messaging/government-city_.md
-)
-
-## City Contacts 
-### city_contact_1
-> [Contact Information](/government/government_contacts.md#chris-reinersman-chair-)  
-> 
-> <details><Summary>Messaging suggestions...</Summary> 
-> 
-> asdfadsf: 
-> * dfgs
-> #### For Email or Contact Form
-> 
-> ``` 
-> ...
-> text
-> ...
-> ```
-> </details> 
-
-## County Contacts 
-### county_contact_1
-> [Contact Information](/government/government_contacts.md#chris-reinersman-chair-)  
-> 
-> <details><Summary>Messaging suggestions...</Summary> 
-> 
-> asdfadsf: 
-> * dfgs
-> #### For Email or Contact Form
-> 
-> ``` 
-> ...
-> text
-> ...
-> ```
-> </details> 
+[**Messaging Home**](/info/messaging/README.md) 
 
 
-## State Contacts 
-[Click HERE to find your State Senator and Representative](https://apps.legislature.ky.gov/findyourlegislator/findyourlegislator.html)
+# Messaging to share with State Government
+Lorem Ipsum
 
+[**Overview of State Government**](/info/government/gov_overview-3-state.md) 
+
+
+## State Senators
 
 ### Matt Nunn - District 17 
-> [Contact Information](https://github.com/GreenRoadBen/RuralSouthernKenton/blob/main/government/government_contacts.md#matt-nunn----district-17%EF%B8%8F)  
+> [Contact Information](https://github.com/GreenRoadBen/RuralSouthernKenton/blob/main/info/government/info/government_contacts.md#matt-nunn----district-17%EF%B8%8F)  
 > 
 > <details><Summary>Messaging suggestions...</Summary> 
 > 
@@ -68,7 +29,7 @@ Conceptionally a centralized location for messaging points
 > </details> 
 
 ### Gex Williams - District 20 
-> [Contact Information](https://github.com/GreenRoadBen/RuralSouthernKenton/blob/main/government/government_contacts.md#gex-williams---district-20%EF%B8%8F)  
+> [Contact Information](https://github.com/GreenRoadBen/RuralSouthernKenton/blob/main/info/government/info/government_contacts.md#gex-williams---district-20%EF%B8%8F)  
 > 
 > <details><Summary>Messaging suggestions...</Summary>  
 > 
@@ -89,7 +50,7 @@ Conceptionally a centralized location for messaging points
 > </details> 
 
 ### Chris McDaniel - District 23 
-> [Contact Information](https://github.com/GreenRoadBen/RuralSouthernKenton/blob/main/government/government_contacts.md#chris-mcdaniel---district-23%EF%B8%8F)  
+> [Contact Information](https://github.com/GreenRoadBen/RuralSouthernKenton/blob/main/info/government/info/government_contacts.md#chris-mcdaniel---district-23%EF%B8%8F)  
 > 
 > <details><Summary>Messaging suggestions...</Summary>  
 > 
@@ -114,7 +75,7 @@ Conceptionally a centralized location for messaging points
 > </details> 
 
 ### Shelley Funke Frommeyer - District 24 
-> [Contact Information](https://github.com/GreenRoadBen/RuralSouthernKenton/blob/main/government/government_contacts.md#shelley-funke-frommeyer---district-24%EF%B8%8F)  
+> [Contact Information](https://github.com/GreenRoadBen/RuralSouthernKenton/blob/main/info/government/info/government_contacts.md#shelley-funke-frommeyer---district-24%EF%B8%8F)  
 > 
 > <details><Summary>Messaging suggestions...</Summary> 
 > 
@@ -134,5 +95,3 @@ Conceptionally a centralized location for messaging points
 > ...
 > ```
 > </details> 
-
-## Federal Contacts 

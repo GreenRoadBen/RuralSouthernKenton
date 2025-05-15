@@ -1,5 +1,5 @@
 # Overview of Government: It's Role, and How to Engage
-[Government is the manifestation](https://en.wikipedia.org/wiki/Government#Definitions_and_etymology) of the [social contract](https://en.wikipedia.org/wiki/Social_contract) between communities and community members. They use their shared agreement and power to provide for their [Common Good](https://en.wikipedia.org/wiki/Common_good). 
+[Government is the manifestation](https://en.wikipedia.org/wiki/info/government#Definitions_and_etymology) of the [social contract](https://en.wikipedia.org/wiki/Social_contract) between communities and community members. They use their shared agreement and power to provide for their [Common Good](https://en.wikipedia.org/wiki/Common_good). 
 The American understanding of this can be captured in the phrases of "[No taxation without representation](https://en.wikipedia.org/wiki/No_taxation_without_representation)", and Lincoln's "[Government of the people, by the people, for the people](https://en.wikipedia.org/wiki/Gettysburg_Address#Legacy)".      
 
 The community selects from among themselves, individiuals who they entrust to work in the best interests of their community. The community elects them for only limited periods to ensure they are held accountable by the community.
