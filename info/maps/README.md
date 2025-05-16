@@ -2,7 +2,7 @@
 
 ## Google Maps 
 Click on the image below for a map that overlays Google Maps with Focus Area 1 and Focus Area 2.   
-<a href="https://www.google.com/info/maps/d/view?mid=13Wr-9ePqWmYSlS0J61Zmnx6jz4f_GDY&ll=38.88407838522913%2C-84.5147455&z=11">
+<a href="https://www.google.com/maps/d/u/1/view?mid=13mqIUI-mOGPrW577eXXZBVYG3aTu_qY&usp=sharing">
   <img src="/info/docs/img/gmap.png" alt="Google Maps of Focus Area1 and Focus Area 2" style="width:300px;height:100px;">
 </a>  
 [Leave a comment in the "issues" section](https://github.com/GreenRoadBen/RuralSouthernKenton/issues) to request an update or modification to this.
