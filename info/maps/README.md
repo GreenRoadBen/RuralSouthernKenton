@@ -2,11 +2,13 @@
 
 ## Google Maps 
 Click on the image below for a map that overlays Google Maps with Focus Area 1 and Focus Area 2.   
-<a href="https://www.google.com/maps/d/u/1/view?mid=13mqIUI-mOGPrW577eXXZBVYG3aTu_qY&usp=sharing">
+<a href="https://www.google.com/maps/d/u/1/embed?mid=13mqIUI-mOGPrW577eXXZBVYG3aTu_qY&ehbc=2E312F&noprof=1">
   <img src="/info/docs/img/gmap.png" alt="Google Maps of Focus Area1 and Focus Area 2" style="width:300px;height:100px;">
 </a>  
 [Leave a comment in the "issues" section](https://github.com/GreenRoadBen/RuralSouthernKenton/issues) to request an update or modification to this.
 
+https://www.google.com/maps/d/u/1/embed?mid=13mqIUI-mOGPrW577eXXZBVYG3aTu_qY&ehbc=2E312F&noprof=1
+https://www.google.com/maps/d/u/1/view?mid=13mqIUI-mOGPrW577eXXZBVYG3aTu_qY&usp=sharing 
 
 ## Property Lines and Owners  
 KY County Clerk offices offer a service of the Property Value Administrator to see property lines and ownership information.  
