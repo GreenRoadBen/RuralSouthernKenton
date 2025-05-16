@@ -5,6 +5,6 @@ Key points for folk to consider.
 
 ## [Engage Government](/info/messaging/info/government_0.md) 
 
-| [City](/info/messaging/info/gov_msg-1_city.md) | [County](/info/messaging/info/gov_msg-2_county.md) | [State](/info/messaging/info/gov_msg-3-state.md)   | [Federal](/info/messaging/info/gov_msg-4-federal.md)  |
+| [City](/info/messaging/gov_msg-1_city.md) | [County](/info/messaging/gov_msg-2_county.md) | [State](/info/messaging/gov_msg-3-state.md)   | [Federal](/info/messaging/gov_msg-4-federal.md)  |
 
 ## [Others](/info/messaging/other.md)
