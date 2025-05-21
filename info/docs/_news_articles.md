@@ -1,4 +1,5 @@
 # Log of News Articles related to Rural Kenton and Major Regional Development
+[Docs Home](/info/docs/README.md)
 
 |Date|Source|Link|Note|
 |:--:|:---:|:---|:---:|
