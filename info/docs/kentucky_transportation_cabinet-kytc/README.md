@@ -65,16 +65,3 @@
 #### [Mary Grubs Final Report](/info/docs/kentucky_transportation_cabinet-kytc/MGH%20Final%20Report.pdf)
 * Multiple paths cutting directly across Kenton County Rural / Green Road to connect to 17 at Nicholson or more south of Nicholson
 * Multiple feedback from stakeholders captured, but no public outreach done
-
-
-
-
-
-
-
-
-
-
-
-
-
