@@ -26,4 +26,9 @@ Extensive documents of various studies, plannings, and links available at the ab
 ## [South Kenton County Citizens Group Docs](/info/docs/south_kenton_county_citizens_group/README.md)
 Documents provided by the SKCCG.
 
+## [Elections](/info/docs/elections/README.md)
+Documents realted to elections in the county over past years.
+
+## [img](/info/docs/img/README.md)
+Images used in this repository.
 
