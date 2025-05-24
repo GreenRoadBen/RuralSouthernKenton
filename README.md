@@ -1,7 +1,7 @@
 # Purpose 
 GitHub Repository for facilitating discussion about Southern Kenton County Kentucky
 
-The most helpful engagement point is the [**maps section**](/info/maps/). 
+The most helpful engagement point is the [**maps section**](/info/maps/), followed by [**government contacts**](/info/government/government_contacts.md). 
 
 ----
 
