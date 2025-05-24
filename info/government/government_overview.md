@@ -7,6 +7,7 @@ The community selects from among themselves, individiuals who they entrust to wo
 In addition to elected offices, there are appointed roles done by those who were elected. These roles are the majority of lived expereience of citizens. In order to scale action, decisions, and bring a multitude of services to the common good of the citizens, levels of governments rely on these appointed professions to execute their tasks as directed by the elected officials.  In Kentucky many of these are collected into the term "Special Purpose Government Entities (SPGE)", of which there are two types: taxing, non-taxing. 
 
 There are many layers to government which correspond to their scope and scale. When all the layeres are combined, the sheer size and complexity of it all can be daunting to navigate.  
+
 > [!IMPORTANT]
 > **The best way to hold the government to work for the Common Good, is to identify their pressure points**.
 > 
