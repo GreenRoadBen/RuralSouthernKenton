@@ -1,5 +1,5 @@
 # Contents of Docs for KRS
-[Docs Home](/info/docs/README.md)
+[Docs Home](/info/docs/)
 
 
 ### [KRS_081_050](/info/docs/kentucky_revised_statutes-krs/KRS81_050(K).pdf)

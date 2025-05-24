@@ -1,5 +1,5 @@
 # Contents of Docs for KYTC
-[Docs Home](/info/docs/README.md)
+[Docs Home](/info/docs/)
 
 ## Links to find Documents
 * https://transportation.ky.gov/Planning/pages/project-details.aspx?

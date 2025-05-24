@@ -1,5 +1,5 @@
 # Contents of Docs for Kenton County Fiscal Court
-[Docs Home](/info/docs/README.md)
+[Docs Home](/info/docs/)
 
 
 ### [Map of Kenton County Fiscal Court Commisioner Areas](/info/docs/kenton_fiscal_court/KCCitiesCommissionerDistrictsLABEL.pdf)
